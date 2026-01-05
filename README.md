@@ -23,14 +23,6 @@
 
   <br/>
 
-  <!-- Trophies -->
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=RuhilMU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="RuhilMU's Trophies" />
-  </div>
-
-  <br/>
-  <br/>
-
   <!-- Tech Stack -->
   <h3>🛠️ Tech Stack</h3>
 
