@@ -17,11 +17,11 @@
       <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://ruhilmu.tech">
-      <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googleearth&logoColor=white" />
+      <img src="https://img.shields.io/badge/Porto-FFD700?style=for-the-badge&logo=googleearth&logoColor=white" />
     </a>
   </p>
 
-  <br />
+  <br/>
 
   <!-- Trophies -->
   <div>
@@ -66,8 +66,8 @@
   <h3>📊 GitHub Stats</h3>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RuhilMU&show_icons=true&theme=tokyonight&hide_border=true" alt="Ruhil's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhilMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RuhilMU&show_icons=true&theme=tokyonight&hide_border=true" alt="Ruhil's Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RuhilMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </p>
 
   <p align="center">
