@@ -10,18 +10,16 @@
     <a href="https://github.com/RuhilMU">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/ruhil-muhammad-ukasyah">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
-    </a>
     <a href="https://instagram.com/ruhilm.u">
       <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://ruhilmu.tech">
       <img src="https://img.shields.io/badge/Porto-FFD700?style=for-the-badge&logo=googleearth&logoColor=white" />
     </a>
+    <a href="https://linkedin.com/in/ruhil-muhammad-ukasyah">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
+    </a>
   </p>
-
-  <br/>
 
   <!-- Tech Stack -->
   <h3>🛠️ Tech Stack</h3>
