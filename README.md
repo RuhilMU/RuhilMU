@@ -11,22 +11,22 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/ruhil-muhammad-ukasyah">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
     </a>
     <a href="https://instagram.com/ruhilm.u">
-      <img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://ruhilmu.tech">
-      <img src="https://img.shields.io/badge/Porto-100000?style=for-the-badge&logo=porto&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googleearth&logoColor=white" />
     </a>
   </p>
 
   <br />
 
   <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <div>
     <img src="https://github-profile-trophy.vercel.app/?username=RuhilMU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="RuhilMU's Trophies" />
-  </a>
+  </div>
 
   <br/>
   <br/>
@@ -47,9 +47,8 @@
   <div>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/ExpressJS-404040?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   </div>
 
   <br/>
@@ -67,7 +66,7 @@
   <h3>📊 GitHub Stats</h3>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RuhilMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ruhil's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RuhilMU&show_icons=true&theme=tokyonight&hide_border=true" alt="Ruhil's Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhilMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </p>
 
